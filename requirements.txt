@@ -1,4 +1,3 @@
 streamlit-option-menu
-scikit-learn
-pickle
 scikit-learn==1.1.3
+pickle5
